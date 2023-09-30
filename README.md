@@ -5,7 +5,7 @@ Jarvis is a personal assistant that can do many things for you.
 We tried our best in making this project.
 We hope you like it.
 ## Versions
-👻### Version 0.001
+### Version 0.001
 This is the initial code version.
 In this version we have just added the basic code.
 And the chatbot feature is added.
